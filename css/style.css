@@ -1,0 +1,20 @@
+/* Add this CSS to your existing or a new style.css file */
+.a {
+    display: block;
+    margin: auto; /* This centers the image horizontally */
+    margin-bottom: 20px;
+}
+
+.atasan {
+    text-align: center;
+}
+
+header{
+    background-color: #38419D;
+}
+.bg-custom-blue {
+    background-color: #38419D;
+}
+.bg-custom-blue:hover {
+    background-color: #38419D; /* Ensure the hover state has the same color as the normal state */
+}
